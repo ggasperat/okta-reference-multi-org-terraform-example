@@ -5,4 +5,5 @@ resource "okta_user" "okta_terraform_admin" {
     email      = "OktaTerraformAdmin@iatcore.com"
     status     = "ACTIVE"
     department = "DMZ Ops"
+//commit
 }
