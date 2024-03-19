@@ -1,6 +1,5 @@
 resource "okta_group" "service_accounts" {
     name        = "Okta Service Accounts"
-//test
     description = "Group that contains all users that represent Service Accounts"
 }
 
